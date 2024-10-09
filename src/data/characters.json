@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Diluc", "element": "Pyro", "weapon": "Claymore", "image": "https://rerollcdn.com/GENSHIN/Characters/Diluc.png", "rarity": 5 },
+  { "id": 2, "name": "Jean", "element": "Anemo", "weapon": "Sword", "image": "https://rerollcdn.com/GENSHIN/Characters/Jean.png", "rarity": 5 },
+  { "id": 3, "name": "Venti", "element": "Anemo", "weapon": "Bow", "image": "https://rerollcdn.com/GENSHIN/Characters/Venti.png", "rarity": 5 },
+  { "id": 4, "name": "Keqing", "element": "Electro", "weapon": "Sword", "image": "https://rerollcdn.com/GENSHIN/Characters/Keqing.png", "rarity": 5 },
+  { "id": 5, "name": "Zhongli", "element": "Geo", "weapon": "Polearm", "image": "https://rerollcdn.com/GENSHIN/Characters/Zhongli.png", "rarity": 5 },
+  { "id": 6, "name": "Ganyu", "element": "Cryo", "weapon": "Bow", "image": "https://rerollcdn.com/GENSHIN/Characters/Ganyu.png", "rarity": 5 },
+  { "id": 7, "name": "Hu Tao", "element": "Pyro", "weapon": "Polearm", "image": "https://rerollcdn.com/GENSHIN/Characters/Hu_Tao.png", "rarity": 5 },
+  { "id": 8, "name": "Eula", "element": "Cryo", "weapon": "Claymore", "image": "https://rerollcdn.com/GENSHIN/Characters/Eula.png", "rarity": 5 },
+  { "id": 9, "name": "Kazuha", "element": "Anemo", "weapon": "Sword", "image": "https://rerollcdn.com/GENSHIN/Characters/Kazuha.png", "rarity": 5 },
+  { "id": 10, "name": "Ayaka", "element": "Cryo", "weapon": "Sword", "image": "https://rerollcdn.com/GENSHIN/Characters/Ayaka.png", "rarity": 5 },
+  { "id": 11, "name": "Yoimiya", "element": "Pyro", "weapon": "Bow", "image": "https://rerollcdn.com/GENSHIN/Characters/Yoimiya.png", "rarity": 5 },
+  { "id": 12, "name": "Raiden Shogun", "element": "Electro", "weapon": "Polearm", "image": "https://rerollcdn.com/GENSHIN/Characters/Raiden_Shogun.png", "rarity": 5 },
+  { "id": 13, "name": "Kokomi", "element": "Hydro", "weapon": "Catalyst", "image": "https://rerollcdn.com/GENSHIN/Characters/Kokomi.png", "rarity": 5 },
+  { "id": 14, "name": "Itto", "element": "Geo", "weapon": "Claymore", "image": "https://rerollcdn.com/GENSHIN/Characters/Itto.png", "rarity": 5 },
+  { "id": 15, "name": "Shenhe", "element": "Cryo", "weapon": "Polearm", "image": "https://rerollcdn.com/GENSHIN/Characters/Shenhe.png", "rarity": 5 },
+  { "id": 16, "name": "Yae Miko", "element": "Electro", "weapon": "Catalyst", "image": "https://rerollcdn.com/GENSHIN/Characters/Yae_Miko.png", "rarity": 5 },
+  { "id": 17, "name": "Ayato", "element": "Hydro", "weapon": "Sword", "image": "https://rerollcdn.com/GENSHIN/Characters/Ayato.png", "rarity": 5 },
+  { "id": 18, "name": "Yelan", "element": "Hydro", "weapon": "Bow", "image": "https://rerollcdn.com/GENSHIN/Characters/Yelan.png", "rarity": 5 },
+  { "id": 19, "name": "Cyno", "element": "Electro", "weapon": "Polearm", "image": "https://rerollcdn.com/GENSHIN/Characters/Cyno.png", "rarity": 5 },
+  { "id": 20, "name": "Nilou", "element": "Hydro", "weapon": "Sword", "image": "https://rerollcdn.com/GENSHIN/Characters/Nilou.png", "rarity": 5 }
+]
